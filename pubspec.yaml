@@ -1,0 +1,10 @@
+name: mgenware_dart_lints
+description: Dart lint rules used by Mgenware.
+version: 1.0.0
+homepage: https://github.com/mgenware/mgenware-dart-lints
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dependencies:
+  lints: ^1.0.1

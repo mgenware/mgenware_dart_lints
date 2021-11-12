@@ -1,0 +1,11 @@
+name: example
+version: 0.1.0
+publish_to: none
+homepage: https://github.com/mgenware/mgenware-dart-lints
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dependencies:
+  mgenware_dart_lints:
+    path: ../
