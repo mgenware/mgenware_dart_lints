@@ -1,6 +1,6 @@
 [![Status](https://github.com/mgenware/mgenware_dart_lints/workflows/Lint/badge.svg)](https://github.com/mgenware/mgenware_dart_lints/actions)
 
-Dart lint rules used by Mgenware.
+Dart lint rules used by Mgenware. It includes all official recommended Dart lint rules in `package:lints/recommended.yaml`.
 
 ## Usage
 
