@@ -1,3 +1,4 @@
+[![pub package](https://img.shields.io/pub/v/mgenware_dart_lints.svg)](https://pub.dev/packages/mgenware_dart_lints)
 [![Status](https://github.com/mgenware/mgenware_dart_lints/workflows/Lint/badge.svg)](https://github.com/mgenware/mgenware_dart_lints/actions)
 
 Dart lint rules used by Mgenware. It includes all official recommended Dart lint rules in `package:lints/recommended.yaml`.
