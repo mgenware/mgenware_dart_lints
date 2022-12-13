@@ -7,8 +7,16 @@ Dart lint rules used in Mgenware. It includes all official recommended Dart lint
 
 Install this package:
 
+Dart:
+
 ```sh
 dart pub add --dev mgenware_dart_lints
+```
+
+Flutter:
+
+```sh
+flutter pub add --dev mgenware_dart_lints
 ```
 
 Create a `analysis_options.yaml` and include this package.
