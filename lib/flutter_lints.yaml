@@ -27,4 +27,5 @@ linter:
     - unnecessary_raw_strings
     - unnecessary_statements
     - prefer_final_locals
+    - discarded_futures
     # Keep these in sync with lints.yaml
