@@ -29,4 +29,5 @@ linter:
     - prefer_final_locals
     - discarded_futures
     - unnecessary_to_list_in_spreads
+    - avoid_void_async
     # Keep these in sync with lints.yaml

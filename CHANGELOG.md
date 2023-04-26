@@ -1,3 +1,7 @@
+## 2.6.1
+
+- Added `avoid_void_async`.
+
 ## 2.6.0
 
 - Added more rules.
