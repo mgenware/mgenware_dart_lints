@@ -1,3 +1,7 @@
+## 2.6.0
+
+- Added more rules.
+
 ## 2.1.0
 
 - Enable new Dart analyzer settings.
