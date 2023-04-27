@@ -11,9 +11,13 @@ linter:
     - always_declare_return_types
     - always_put_control_body_on_new_line
     - avoid_dynamic_calls
-    - avoid_redundant_argument_values
     - avoid_print
+    - avoid_redundant_argument_values
+    - avoid_void_async
+    - discarded_futures
     - literal_only_boolean_expressions
+    - only_throw_errors
+    - prefer_final_locals
     - prefer_single_quotes
     - throw_in_finally
     - unawaited_futures
@@ -22,8 +26,5 @@ linter:
     - unnecessary_parenthesis
     - unnecessary_raw_strings
     - unnecessary_statements
-    - prefer_final_locals
-    - discarded_futures
     - unnecessary_to_list_in_spreads
-    - avoid_void_async
     # Keep these in sync with flutter_lints.yaml
