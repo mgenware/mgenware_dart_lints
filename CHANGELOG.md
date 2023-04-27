@@ -1,3 +1,7 @@
+## 2.7.0
+
+- Added `only_throw_errors`.
+
 ## 2.6.1
 
 - Added `avoid_void_async`.
