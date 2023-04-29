@@ -1,3 +1,7 @@
+## 3.0.0
+
+- Enabled `prefer_relative_imports`.
+
 ## 2.7.0
 
 - Added `only_throw_errors`.
