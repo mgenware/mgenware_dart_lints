@@ -1,10 +1,10 @@
 name: mgenware_dart_lints
-description: Dart lint rules used in Mgenware. It includes all official recommended Dart lint rules in `package:lints/recommended.yaml`.
-version: 3.0.0
+description: Dart lint rules used in Mgenware.
+version: 4.0.0
 homepage: https://github.com/mgenware/mgenware_dart_lints
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
   lints: ^2.0.0
