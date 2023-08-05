@@ -26,7 +26,6 @@ linter:
     - prefer_single_quotes
     - throw_in_finally
     - unawaited_futures
-    - unnecessary_await_in_return
     - unnecessary_null_checks
     - unnecessary_parenthesis
     - unnecessary_raw_strings
