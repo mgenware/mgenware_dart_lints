@@ -1,3 +1,7 @@
+## 4.1.0
+
+- Remove `unnecessary_await_in_return`
+
 ## 4.0.0
 
 - Migrated to Dart 3.
