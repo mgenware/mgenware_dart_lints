@@ -1,3 +1,7 @@
+## 5.0.0
+
+- Update flutter lints to v3
+
 ## 4.1.0
 
 - Remove `unnecessary_await_in_return`
