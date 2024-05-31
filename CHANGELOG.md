@@ -1,3 +1,7 @@
+## 6.0.0
+
+- Update to lints v4
+
 ## 5.0.0
 
 - Update flutter lints to v3
