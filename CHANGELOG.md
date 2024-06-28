@@ -1,3 +1,7 @@
+## 6.5.0
+
+- Add a bunch of new rules
+
 ## 6.0.0
 
 - Update to lints v4
