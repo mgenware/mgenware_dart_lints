@@ -33,7 +33,6 @@ linter:
     - prefer_null_aware_method_calls
     - prefer_relative_imports
     - prefer_single_quotes
-    - require_trailing_commas
     - test_types_in_equals
     - throw_in_finally
     - unawaited_futures

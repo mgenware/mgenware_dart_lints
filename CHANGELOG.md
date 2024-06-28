@@ -1,3 +1,7 @@
+## 6.5.2
+
+- Remove `require_trailing_commas`
+
 ## 6.5.1
 
 - Remove `prefer_asserts_with_message`
