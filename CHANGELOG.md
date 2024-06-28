@@ -1,3 +1,7 @@
+## 6.5.1
+
+- Remove `prefer_asserts_with_message`
+
 ## 6.5.0
 
 - Add a bunch of new rules

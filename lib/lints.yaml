@@ -28,7 +28,6 @@ linter:
     - no_self_assignments
     - only_throw_errors
     - package_api_docs
-    - prefer_asserts_with_message
     - prefer_final_in_for_each
     - prefer_final_locals
     - prefer_null_aware_method_calls
