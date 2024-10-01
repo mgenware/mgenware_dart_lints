@@ -1,3 +1,7 @@
+## 7.0.0
+
+- Update `flutter_lints` to 5.0.0
+
 ## 6.5.2
 
 - Remove `require_trailing_commas`
