@@ -1,6 +1,6 @@
 name: mgenware_dart_lints
 description: Dart lint rules used in Mgenware.
-version: 7.0.0
+version: 8.0.0
 homepage: https://github.com/mgenware/mgenware_dart_lints
 
 environment:

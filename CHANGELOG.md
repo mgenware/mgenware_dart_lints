@@ -1,3 +1,7 @@
+## 8.0.0
+
+- Update `flutter_lints` to 6.0.0
+
 ## 7.0.0
 
 - Update `flutter_lints` to 5.0.0
