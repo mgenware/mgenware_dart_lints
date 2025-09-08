@@ -1,3 +1,7 @@
+## 8.1.0
+
+- Disable `sort_child_properties_last`
+
 ## 8.0.0
 
 - Update `flutter_lints` to 6.0.0
